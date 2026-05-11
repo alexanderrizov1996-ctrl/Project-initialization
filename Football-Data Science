@@ -1,0 +1,16 @@
+# Project-initialization
+1. Introduction
+Predicting football match outcomes is a challenging problem in sports analytics. It has applications in betting, performance analysis, and decision-making.
+
+The goal of this project is to build a machine learning model that predicts match outcomes (home win, draw, or away win) using historical match data.
+2. Problem Definition
+This task is formulated as a multi-class classification problem.
+
+Target classes:
+
+H: Home win
+D: Draw
+A: Away win
+The objective is to learn a function:
+
+f(X) → y
